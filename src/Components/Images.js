@@ -70,7 +70,7 @@ export default function Images(props) {
         src={shuffledImages[i]}
         alt="demon slayer character"
         style={{ height: "250px", aspectRatio: "1", objectFit: "cover" }}
-        key={i} 
+        key={i}
         onClick={props.onClick}
       />
     )
