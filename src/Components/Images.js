@@ -62,7 +62,7 @@ function findNextSpot(spotsLeft) {
     return { found, spotsLeft };
   }
 }
-export default function Images() {
+export default function Images(props) {
   let shuffledImages = shuffleImages();
   const displayImages = Array.from({ length: allImages.length }).map(
     (image, i) => (
@@ -70,9 +70,14 @@ export default function Images() {
         src={shuffledImages[i]}
         alt="demon slayer character"
         style={{ height: "250px", aspectRatio: "1", objectFit: "cover" }}
-        key={i}
+        key={i} 
+        onClick={props.onClick}
       />
     )
   );
-  return <div>{displayImages}</div>;
+  return (
+    <div className="images-center">
+      <div className="images-container">{displayImages}</div>
+    </div>
+  );
 }
