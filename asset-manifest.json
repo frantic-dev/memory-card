@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.36136715.css",
+    "main.js": "/memory-card/static/js/main.bed432bb.js",
+    "static/media/tengen.jpg": "/memory-card/static/media/tengen.18bea8f758afd02fc4a8.jpg",
+    "static/media/tanjiro.jpg": "/memory-card/static/media/tanjiro.8da0d81e7ee4dd160b03.jpg",
+    "static/media/akaza.jpg": "/memory-card/static/media/akaza.ce8a2276d26f4b27cc58.jpg",
+    "static/media/kagaya.jpg": "/memory-card/static/media/kagaya.71fce46e1118e352e8c5.jpg",
+    "static/media/mitsuri.avif": "/memory-card/static/media/mitsuri.4a945665e1a9865d3d21.avif",
+    "static/media/zenitsu.jpg": "/memory-card/static/media/zenitsu.8c41c6e10ea3843e1ce3.jpg",
+    "static/media/muichiro.webp": "/memory-card/static/media/muichiro.28733b4fb3d0706b6b3a.webp",
+    "static/media/nezuko.jpg": "/memory-card/static/media/nezuko.c6ed0f7e925ba8d394ce.jpg",
+    "static/media/kyojuro.jpg": "/memory-card/static/media/kyojuro.11af7f9785155b63b412.jpg",
+    "static/media/muzan.avif": "/memory-card/static/media/muzan.ec479221971f2099e5d0.avif",
+    "static/media/inosuke.webp": "/memory-card/static/media/inosuke.cc022e3984bfa64f6777.webp",
+    "static/media/obanai.jpg": "/memory-card/static/media/obanai.8ccc3d87614c383113db.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.36136715.css.map": "/memory-card/static/css/main.36136715.css.map",
+    "main.bed432bb.js.map": "/memory-card/static/js/main.bed432bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36136715.css",
+    "static/js/main.bed432bb.js"
+  ]
+}
